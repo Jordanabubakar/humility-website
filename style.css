@@ -78,6 +78,8 @@ a:hover {color: red;}
     .profile-picture {height: 100px; width: 100px;}
     .profile {font-size: small;}
     .go-to {height: 300px; width: 300px;}
+    .mail {display: none;}
+    
   }
   
   @media (min-width: 1201px) and (max-width: 1600px) {
