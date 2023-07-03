@@ -62,7 +62,7 @@ a:hover {color: red;}
   @media (min-width: 481px) and (max-width: 1200px) {
     body {background-color: rgb(176, 230, 192); margin: 10px;}
     img  {width: 500px; height: 250px; display: block ;}
-   .logo {width: 100px; height: 100px;}
+   .logo {width: 70px; height: 70px;}
     h2   {font-size: 15px; margin: 2%;}
     h1   {font-size: 20px;}
    .heading{display: none;}
@@ -75,7 +75,7 @@ a:hover {color: red;}
     .WELCOME {display: none;}
     img{width: 400px; height: 200px; display: block}
     .go-to {width: 200px; height: 200px; display: block;}
-    .profile-picture {height: 100px; width: 100px;}
+    .profile-picture {height: 70px; width: 70px;}
     .profile {font-size: small;}
     .go-to {height: 300px; width: 300px;}
     .mail {display: none;}
