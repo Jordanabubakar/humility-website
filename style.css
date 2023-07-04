@@ -2,10 +2,10 @@ body {background-color:rgb(255, 230, 0); margin: 2%;}
 h1{font-family: 'Amatic SC' ; font-size: x-large;}
 h3 {margin-top:-70px ;color:darkblue; font-family:'Ruluko'; font-size:medium;}
 a:link{color: rgba(0, 0, 0, 0.753);}
-.Welcome{color: rgb(102, 0, 255) ;}
-.to{color: rgb(255, 0, 64);}
-.my{color: rgb(42, 165, 54);}
-.site{color:rgb(6, 128, 0);}
+.Welcome{color: rgb(102, 0, 255) ; display: none;}
+.to{color: rgb(255, 0, 64); display: none;}
+.my{color: rgb(42, 165, 54); display: none;}
+.site{color:rgb(6, 128, 0); display: none;}
 .heading{color: rgb(178, 111, 34); margin-top: -50px;}
 hr{border-style: none;
 border-top: dotted;
